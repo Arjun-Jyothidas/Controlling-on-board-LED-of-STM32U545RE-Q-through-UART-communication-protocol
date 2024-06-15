@@ -1,3 +1,4 @@
+# Board-to-board-communication-through-CAN-communication-protocol
 Following repository contains HAL C code for controlling the on-board LED of STM32U545RE-Q microcontroller through UART communication protocol.
 . Only the main source files are added in this repository as the rest of the files are generated automatically by the STMCubeIDE.
 The target microcontroller - STM32U545RE-Q is selected in the STMCubeMX, matching the hardware.
